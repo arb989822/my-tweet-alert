@@ -1,0 +1,1 @@
+flask==2.3.3\ntweepy==4.14.0\nrequests==2.31.0
